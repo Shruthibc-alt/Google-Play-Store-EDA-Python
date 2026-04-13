@@ -14,31 +14,35 @@ This project performs data cleaning, feature engineering, and exploratory data a
 ⚙️ Project Workflow
 
 Data cleaning and preprocessing
+
 Handling missing values
+
 Feature engineering
+
 Exploratory data analysis
+
 Visualization and insights
 
 📊 Key KPIs
 
-Most popular app categories
-Top installed apps
-App ratings distribution
+Most popular app categories,
+Top installed apps,
+App ratings distribution,
 Category-wise installs
 
 🔍 Key Insights
 
-Family and Games categories dominate the Play Store
-GAME category has the highest number of installs
-Apps like Subway Surfers and Instagram are top performers
+Family and Games categories dominate the Play Store,
+GAME category has the highest number of installs,
+Apps like Subway Surfers and Instagram are top performers,
 There are 271 apps with 5-star ratings
 
 🛠️ Tools Used
 
-Python
-Pandas
-NumPy
-Matplotlib
+Python,
+Pandas,
+NumPy,
+Matplotlib,
 Seaborn
 
 📈 Result
@@ -48,5 +52,7 @@ The analysis highlights key trends in app performance, helping understand user p
 📂 How to Use
 
 Download the dataset
+
 Run the Python script or notebook
+
 Explore visualizations and insights
